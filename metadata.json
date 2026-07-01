@@ -1,0 +1,6 @@
+{
+  "name": "Wells International Schools",
+  "description": "A world-class premium international Nursery, Primary, and Secondary school offering technology-driven and character-building education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
